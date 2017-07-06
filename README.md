@@ -1,5 +1,5 @@
 # PHP Populator (Array-to-Object)
-[![Build Status](https://travis-ci.org/touki653/populator.png?branch=master)](https://travis-ci.org/touki653/populator)
+[![Build Status](https://travis-ci.org/knugen/populator.png?branch=master)](https://travis-ci.org/touki653/populator)
 
 
 PHP Populator is a simple Array-To-Object library which transforms arrays into a given object with a few additions with Annotations.  
